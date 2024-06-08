@@ -9,10 +9,10 @@ class PeriodicTable extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.white,
+          backgroundColor: Colors.purple[900],
           title: const Text(
-            'Periodic Table',
-            style: TextStyle(color: Colors.black),
+            'PERIODIC TABLE',
+            style: TextStyle(color: Colors.white),
           ),
           centerTitle: true,
         ),
@@ -27,6 +27,10 @@ class PeriodicTable extends StatelessWidget {
                 // mainAxisAlignment:MainAxisAlignment.spaceBetween,
                 children: [
                   Container(
+                 
+                    
+                    
+                    
                     decoration: BoxDecoration(
                       border: Border.all(color: Colors.green),
                     ),
