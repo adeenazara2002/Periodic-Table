@@ -342,7 +342,119 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.orange.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.yellow.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.blue),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.blue),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.blue),
                     ),
                     height: 40,
                     width: 45,
@@ -366,119 +478,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.blue.shade800),
                     ),
                     height: 40,
                     width: 45,
@@ -494,7 +494,127 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.orange.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.yellow.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  // Container(
+                  //   margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                  //   decoration: BoxDecoration(
+                  //     border: Border.all(color: Colors.green),
+                  //   ),
+                  //   height: 40,
+                  //   width: 45,
+                  // ),
+                  Container(
+                    margin: EdgeInsets.only(left: 60.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.blue),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.blue),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.blue),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.blue),
                     ),
                     height: 40,
                     width: 45,
@@ -510,127 +630,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.blue.shade800),
                     ),
                     height: 40,
                     width: 45,
@@ -645,7 +645,184 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.orange.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.yellow.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  // Container(
+                  //   margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                  //   decoration: BoxDecoration(
+                  //     border: Border.all(color: Colors.green),
+                  //   ),
+                  //   height: 40,
+                  //   width: 45,
+                  // ),
+                  Container(
+                    margin: EdgeInsets.only(left: 60.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.blue),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                ],
+              ),
+
+
+              // Eight row
+
+              Row(
+                children: [
+                  Container(
+                    margin: EdgeInsets.only(top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  
+                ],
+              ),
+
+
+              // Ninth row
+
+              Row(
+                children: [
+                  Container(
+                    margin: EdgeInsets.only(top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.orange.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.yellow.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -659,9 +836,121 @@ class PeriodicTable extends StatelessWidget {
                     width: 45,
                   ),
                   Container(
+                    margin: EdgeInsets.only(left: 60.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.deepOrange.shade300),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.blue),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                
+                ],
+              ),
+
+              // Tenth row
+
+              Row(
+                children: [
+                  Container(
+                    margin: EdgeInsets.only(top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.orange.shade400),
+                    ),
+                    height: 40,
+                    width: 45,
+                  ),
+                  Container(
+                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.yellow.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -675,9 +964,9 @@ class PeriodicTable extends StatelessWidget {
                     width: 45,
                   ),
                   Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
+                    margin: EdgeInsets.only(left: 60.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.deepOrange.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -685,7 +974,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.deepOrange.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -693,7 +982,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.deepOrange.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -701,7 +990,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.deepOrange.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -709,7 +998,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.deepOrange.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -717,7 +1006,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.grey.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -725,7 +1014,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.grey.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -733,7 +1022,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.grey.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -741,7 +1030,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.deepOrange.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -749,7 +1038,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.grey.shade400),
                     ),
                     height: 40,
                     width: 45,
@@ -757,7 +1046,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.blue),
                     ),
                     height: 40,
                     width: 45,
@@ -765,27 +1054,12 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
+                      border: Border.all(color: Colors.grey.shade400),
                     ),
                     height: 40,
                     width: 45,
                   ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
+                  
                 ],
               ),
             ],
