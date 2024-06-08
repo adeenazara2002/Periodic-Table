@@ -21,6 +21,8 @@ class PeriodicTable extends StatelessWidget {
           padding: const EdgeInsets.all(16.0),
           child: Column(
             children: [
+              // SingleChildScrollView(scrollDirection: Axis.horizontal,),
+
               Row(
                 // mainAxisAlignment:MainAxisAlignment.spaceBetween,
                 children: [
