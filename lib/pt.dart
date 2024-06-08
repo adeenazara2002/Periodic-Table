@@ -486,7 +486,6 @@ class PeriodicTable extends StatelessWidget {
                 ],
               ),
 
-
               // Sixth row
 
               Row(
@@ -789,7 +788,6 @@ class PeriodicTable extends StatelessWidget {
                 ],
               ),
 
-
               // Eight row
 
               Row(
@@ -802,19 +800,17 @@ class PeriodicTable extends StatelessWidget {
                     height: 40,
                     width: 45,
                   ),
-                  
                 ],
               ),
-
 
               // Ninth row
 
               Row(
                 children: [
                   Container(
-                    margin: EdgeInsets.only(top: 8.0),
+                    margin: EdgeInsets.only(left: 90.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.orange.shade400),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -822,7 +818,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.yellow.shade300),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -830,15 +826,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 60.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -846,7 +834,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -854,7 +842,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -862,7 +850,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -870,7 +858,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -878,7 +866,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.grey.shade300),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -886,7 +874,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.grey.shade300),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -894,7 +882,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.grey.shade300),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -902,7 +890,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -910,7 +898,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.grey.shade400),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
@@ -918,20 +906,11 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.blue),
+                      border: Border.all(color: Colors.pink.shade200),
                     ),
                     height: 40,
                     width: 45,
                   ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.grey.shade400),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                
                 ],
               ),
 
@@ -940,9 +919,9 @@ class PeriodicTable extends StatelessWidget {
               Row(
                 children: [
                   Container(
-                    margin: EdgeInsets.only(top: 8.0),
+                    margin: EdgeInsets.only(left: 90.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.orange.shade400),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -950,7 +929,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.yellow.shade300),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -958,15 +937,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.green),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 60.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -974,7 +945,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -982,7 +953,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -990,7 +961,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -998,7 +969,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -1006,7 +977,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.grey.shade300),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -1014,7 +985,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.grey.shade300),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -1022,7 +993,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.grey.shade300),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -1030,7 +1001,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.deepOrange.shade300),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -1038,7 +1009,7 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.grey.shade400),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
@@ -1046,25 +1017,15 @@ class PeriodicTable extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 8.0, top: 8.0),
                     decoration: BoxDecoration(
-                      border: Border.all(color: Colors.blue),
+                      border: Border.all(color: Colors.purple.shade300),
                     ),
                     height: 40,
                     width: 45,
                   ),
-                  Container(
-                    margin: EdgeInsets.only(left: 8.0, top: 8.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.grey.shade400),
-                    ),
-                    height: 40,
-                    width: 45,
-                  ),
-                  
                 ],
               ),
             ],
           ),
-        )
-        );
+        ));
   }
 }
